@@ -1,6 +1,7 @@
-import 'package:example_project/UI/screens/home_screen.dart';
-import 'package:example_project/UI/screens/splash_screen.dart';
 import 'package:flutter/material.dart';
+
+import '../../UI/screens/home_screen.dart';
+import '../../UI/screens/splash_screen.dart';
 
 class RouteGenerator {
   static Route<dynamic> generateRoute(RouteSettings settings) {

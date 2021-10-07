@@ -1,0 +1,5 @@
+MUHTEMEL HATALAR VE COZUMLERI
+
+appbuild.gradle - multiDexEnabled true
+AndroidManifestmanifest - uses-permission androidname=android.permission.INTERNET
+

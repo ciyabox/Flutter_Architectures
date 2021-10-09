@@ -7,9 +7,15 @@ class RouteGenerator {
   static Route<dynamic> generateRoute(RouteSettings settings) {
     switch (settings.name) {
       case SplashScreen.route:
-        return MaterialPageRoute(builder: (context) => SplashScreen());
+        return MaterialPageRoute(
+          builder: (context) => SplashScreen(),
+          settings: settings,
+        );
       case HomeScreen.route:
-        return MaterialPageRoute(builder: (context) => HomeScreen());
+        return MaterialPageRoute(
+          builder: (context) => HomeScreen(),
+          settings: settings,
+        );
       default:
         return MaterialPageRoute(
           builder: (context) => Scaffold(

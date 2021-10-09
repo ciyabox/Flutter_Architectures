@@ -11,7 +11,7 @@ class SplashScreen extends StatelessWidget {
       onWillPop: () => Future.value(false),
       child: Scaffold(
         body: FutureBuilder<bool>(
-          future: businessFunction(),
+          future: startFunction(),
           builder: (_, snapshot) {
             if (snapshot.hasData)
               WidgetsBinding.instance?.addPostFrameCallback(
@@ -24,7 +24,7 @@ class SplashScreen extends StatelessWidget {
     );
   }
 
-  Future<bool> businessFunction() async {
+  Future<bool> startFunction() async {
     await Future.delayed(Duration(seconds: 3));
     return true;
   }

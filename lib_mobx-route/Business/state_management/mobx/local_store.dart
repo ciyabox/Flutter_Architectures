@@ -15,5 +15,4 @@ abstract class _LocalStoreBase with Store {
     await Future.delayed(Duration(seconds: 3));
     futureValue = 5;
   }
-  
 }

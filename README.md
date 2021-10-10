@@ -1,4 +1,4 @@
-# MyExampleProject
+# Flutter Architectures
 
 ## Mobx - Route:
 + ### Kullanılan Kütüphaneler

@@ -1,10 +1,10 @@
 # MyExampleProject
 
-## Mobx:
+## Mobx - Route:
 + ### Kullanılan Kütüphaneler
   + #### mobx:
   + #### flutter_mobx:
   + #### mobx_codegen:
   + #### build_runner:
-+ ### Dosyaları [indir](https://drive.google.com/drive/folders/1XlYK7Spmz0TYW64v3s431crmIaBb8iA7?usp=sharing)
++ ### Indirme [linki](https://drive.google.com/drive/folders/1XlYK7Spmz0TYW64v3s431crmIaBb8iA7?usp=sharing)
 #

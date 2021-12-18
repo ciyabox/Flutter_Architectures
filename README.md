@@ -1,5 +1,7 @@
 # Flutter Architectures
 
+<div style="text-align:center"><img src="https://github.com/ciyabox/Flutter_Architectures/blob/master/images/flutter_arc_1.PNG" /></div>
+
 ![arc_1](https://github.com/ciyabox/Flutter_Architectures/blob/master/images/flutter_arc_1.PNG)
 ![arc_3](https://github.com/ciyabox/Flutter_Architectures/blob/master/images/flutter_arc_3.PNG)
 

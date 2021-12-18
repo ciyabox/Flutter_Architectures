@@ -6,8 +6,10 @@
 | ![](https://raw.githubusercontent.com/ciyabox/Flutter_Architectures/master/images/flutter_arc_3.PNG)  | ![](https://raw.githubusercontent.com/ciyabox/Flutter_Architectures/master/images/flutter_arc_4.PNG)  |
 
 <table id="verticalalign">
+    <caption>vertical-align</caption>
     <thead>
         <tr>
+            <th></th>
             <th>top</th>
             <th>middle</th>
             <th>bottom</th>
@@ -18,6 +20,7 @@
     </thead>
     <tbody>
         <tr>
+            <td align="left">te<br>st</td>
             <td align="left" valign="top">x</td>
             <td align="left" valign="middle">x</td>
             <td align="left" valign="bottom">x</td>

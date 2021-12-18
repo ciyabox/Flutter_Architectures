@@ -6,27 +6,14 @@
 | ![](https://raw.githubusercontent.com/ciyabox/Flutter_Architectures/master/images/flutter_arc_3.PNG)  | ![](https://raw.githubusercontent.com/ciyabox/Flutter_Architectures/master/images/flutter_arc_4.PNG)  |
 
 <table id="verticalalign">
-    <caption>vertical-align</caption>
-    <thead>
-        <tr>
-            <th></th>
-            <th>top</th>
-            <th>middle</th>
-            <th>bottom</th>
-            <th>top-right</th>
-            <th>middle-right</th>
-            <th>bottom-right</th>
-        </tr>
-    </thead>
     <tbody>
         <tr>
-            <td align="left">te<br>st</td>
-            <td align="left" valign="top">x</td>
-            <td align="left" valign="middle">x</td>
-            <td align="left" valign="bottom">x</td>
-            <td align="right" valign="top">x</td>
-            <td align="right" valign="middle">x</td>
-            <td align="right" valign="bottom">x</td>
+            <td align="right" valign="top"><img src="https://raw.githubusercontent.com/ciyabox/Flutter_Architectures/master/images/flutter_arc_1.PNG"/></td>
+            <td align="left" valign="top"><img src="https://raw.githubusercontent.com/ciyabox/Flutter_Architectures/master/images/flutter_arc_2.PNG"/></td>
+        </tr>
+        <tr>
+            <td align="right" valign="top"><img src="https://raw.githubusercontent.com/ciyabox/Flutter_Architectures/master/images/flutter_arc_3.PNG"/></td>
+            <td align="left" valign="top"><img src="https://raw.githubusercontent.com/ciyabox/Flutter_Architectures/master/images/flutter_arc_4.PNG"/></td>
         </tr>
     </tbody>
 </table>
